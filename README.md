@@ -8,4 +8,4 @@
 - 💬 Ask me about technology, running and meditation. :computer: :running: :waxing_crescent_moon:
 - 📫 How to reach me: dan.debiazi@gmail.com
 - ⚡ Fun fact: I bet you are better than me in juggling. No, wait...
-- :video_game: Let's have some fun: codewars.com/users/Pankwood
+- :video_game: Let's have some fun: [CodeWar/Pankwood](https://www.codewars.com/users/Pankwood)
