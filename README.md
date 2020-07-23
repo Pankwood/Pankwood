@@ -1,6 +1,3 @@
-![Cover](https://i.ibb.co/CPp3HQC/template.jpg)
-
-
 - 🔭 I’m currently working on WebAPI Core 3.1 personal project
 - 🌱 I’m currently learning MongoDB and React
 - 👯 I’m looking to collaborate on NGO 
