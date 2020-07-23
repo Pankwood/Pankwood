@@ -1,3 +1,7 @@
+Hi, I'm Dan Debiazi!
+
+![cover](https://i.ibb.co/y0ZnWVW/template.jpg)
+
 - 🔭 I’m currently working on WebAPI Core 3.1 personal project
 - 🌱 I’m currently learning MongoDB and React
 - 👯 I’m looking to collaborate on NGO 
