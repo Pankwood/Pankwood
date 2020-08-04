@@ -1,5 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-dandebiazi-blue?v1?message=dandebiazi&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dandebiazi/)](https://www.linkedin.com/in/dandebiazi/)
-[![Gmail Badge](https://img.shields.io/badge/-dan.debiazi@gmail.com-red?v1?message=dandebiazi&style=flat-square&logo=Gmail&logoColor=white&link=mailto:dan.debiazi@gmail.com)](mailto:dan.debiazi@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+[![StackOverflow Badge](https://img.shields.io/badge/-pankwood-red?v1?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/5423852/pankwood)](https://stackoverflow.com/users/5423852/pankwood)
 
 # Hi, I'm Dan Debiazi :wave:
 
