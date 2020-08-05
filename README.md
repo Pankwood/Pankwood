@@ -10,5 +10,5 @@
 - 🤔 ~~I’m looking for help to get a new job~~. I got a new job! Yeyyy!!!
 - 💬 Ask me about technology, running and meditation. :computer: :running: :waxing_crescent_moon:
 - 📫 How to reach me: dan.debiazi@gmail.com
-- ⚡ Fun fact: I bet you are better than me in juggling. No, wait...
+- ⚡ Fun fact: I bet you are better than me in juggling. No, wait... ![Juggling GIF](https://i.ibb.co/Pxf3rk2/ezgif-com-gif-to-webp.gif)
 - :video_game: Let's have some fun: [CodeWar/Pankwood](https://www.codewars.com/users/Pankwood)
