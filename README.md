@@ -6,7 +6,7 @@
 ![cover](https://i.ibb.co/y0ZnWVW/template.jpg)
 
 - 🔭 I've been working on WebAPI Core 3.1 personal project. 
-- 🌱 Currently studying MongoDB and React.  
+- 🌱 Currently studying [![Mongo Badge](https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&style=plastic&link=https://www.mongodb.com/)](https://www.mongodb.com/) and [![React Badge](https://img.shields.io/badge/-React-blue?logo=React&style=plastic&link=https://reactjs.org/)](https://reactjs.org/).  
 - 🤔 ~~I’m looking for help to get a new job~~. I got a new job! Yeyyy!!!
 - 💬 Ask me about technology, running and meditation. :computer: :running: :waxing_crescent_moon:
 - 📫 How to reach me: dan.debiazi@gmail.com
