@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-dandebiazi-blue?v1?message=dandebiazi&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dandebiazi/)](https://www.linkedin.com/in/dandebiazi/)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5423852?style=flat)](https://stackoverflow.com/users/5423852/pankwood/)
 
-# Hi, I'm Dan Debiazi :wave:
+# Hi, I'm Dan :wave:
 
 ![cover](https://i.ibb.co/y0ZnWVW/template.jpg)
 
