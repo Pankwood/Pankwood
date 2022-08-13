@@ -4,8 +4,8 @@
 # Hi, I'm Dan :wave:
 
 - 🔭 I've been working on a personal project using [![NetCore Badge](https://img.shields.io/badge/-WebAPI%20Core%203.1-purple?logo=.NET&style=plastic&link=https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio)](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio). 
-- 🌱 Currently studying [![Mongo Badge](https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&style=plastic&link=https://www.mongodb.com/)](https://www.mongodb.com/) and [![React Badge](https://img.shields.io/badge/-React-blue?logo=React&style=plastic&link=https://reactjs.org/)](https://reactjs.org/).  
-- :neckbeard: Working hard in my new job! I'm very excited!!!
+- 🌱 Currently studying [![Mongo Badge](https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&style=plastic&link=https://www.mongodb.com/)](https://www.mongodb.com/), [![Angular Badge](https://img.shields.io/badge/-Angular-red?logo=Angular&style=plastic&link=https://angular.io/)](https://angular.io/) and [![Express Badge](https://img.shields.io/badge/-Express-black?logo=Express&style=plastic&link=https://expressjs.com/)](https://expressjs.com/).  
+- :neckbeard: Working hard in my job! I'm very excited!!!
 - 💬 Ask me about technology, running and meditation. :computer: :running: :waxing_crescent_moon:
 - 📫 How to reach me: dan.debiazi@gmail.com
 - ⚡ Fun fact: I bet you are better than me in juggling. No, wait... ![Juggling GIF](https://i.ibb.co/Pxf3rk2/ezgif-com-gif-to-webp.gif)
