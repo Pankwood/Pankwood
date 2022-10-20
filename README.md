@@ -15,3 +15,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pankwood&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankwood&layout=compact&langs_count=6&theme=algolia"/>
 </div>
+
+<a href="https://stackoverflow.com/users/5423852/pankwood?theme=dark" target="_blank"><img src="https://stackoverflow.com/users/flair/5423852.png?theme=dark" width="auto" height="90em" alt="profile for Pankwood at Stack Overflow" title="profile for Pankwood at Stack Overflow"></a>
